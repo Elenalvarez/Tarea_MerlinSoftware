@@ -1,0 +1,14 @@
+{
+  "salesWeight": 0.5,
+  "stockWeight": 0.5,
+  "productSales": [
+    {"productId": "p1","sales": 2},
+    {"productId": "p2","sales": 10},
+    {"productId": "p3","sales": 6}
+  ],
+  "productStock": [
+    {"productId": "p1","stock": 1},
+    {"productId": "p2","stock": 30},
+    {"productId": "p3","stock": 5}
+  ]
+}
