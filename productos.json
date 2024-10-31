@@ -4,11 +4,19 @@
   "productSales": [
     {"productId": "p1","sales": 2},
     {"productId": "p2","sales": 10},
-    {"productId": "p3","sales": 6}
+    {"productId": "p3","sales": 6},
+    {"productId": "p4","sales": 44},
+    {"productId": "p5","sales": 88},
+    {"productId": "p6","sales": 11},
+    {"productId": "p7","sales": 38}
   ],
   "productStock": [
     {"productId": "p1","stock": 1},
     {"productId": "p2","stock": 30},
-    {"productId": "p3","stock": 5}
+    {"productId": "p3","stock": 5},
+    {"productId": "p4","stock": 6},
+    {"productId": "p5","stock": 48},
+    {"productId": "p6","stock": 23},
+    {"productId": "p7","stock": 3}
   ]
 }
